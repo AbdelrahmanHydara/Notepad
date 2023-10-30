@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Screenshot_20231030_160644_com example notepad](https://github.com/AbdelrahmanHydara/Notepad/assets/108473379/bfb33436-7fce-43b6-997e-abd9fe32a559)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
