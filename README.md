@@ -1,4 +1,4 @@
-# notepad
+# Notepad
 
 A new Flutter Application.
 
